@@ -18,7 +18,7 @@
 ## :pushpin: Projects
 ### 1. [crc.ne.kr](https://github.com/yeonjiyeon/crc.ne.kr)
 >취미 공유 게시판 (팀 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+>개발 기간: 2020.2.18 ~ 2020.4.5  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
