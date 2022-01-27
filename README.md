@@ -21,9 +21,9 @@
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->
---- 
+> 
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+---
 ## :pushpin: Projects
 ### 2. [crc.ne.kr](https://github.com/yeonjiyeon/crc.ne.kr)
 >취미 공유 게시판 (팀 프로젝트)  
