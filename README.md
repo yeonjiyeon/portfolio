@@ -17,15 +17,15 @@
 
 ## :pushpin: Projects
 
-### 1. [catchshop](https://github.com/Catch-Shop/catch-shop)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 1. [Catch-shop](https://github.com/Catch-Shop/catch-shop)
+>음식 판매 쇼핑몰  (팀 프로젝트)  
+>개발 기간: 2021.12.28 ~ 2022.02  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring Boot / Gradle / Spring Data JPA 
+>H2 / PostgreSQL / Tymeleaf  
 > 
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Catch-Shop/catch-shop) 참고
 </br>
 ---
 
