@@ -17,7 +17,7 @@
 
 ## :pushpin: Projects
 
-### 1. [두 번째 프로젝트]()
+### 1. [catchshop](https://github.com/Catch-Shop/catch-shop)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
