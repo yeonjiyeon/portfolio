@@ -22,7 +22,7 @@
 >개발 기간: 2021.12.28 ~ 2022.02  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA 
+>Java 8 / Spring Boot / Gradle / Spring Data JPA /
 >H2 / PostgreSQL / Tymeleaf  
 > 
 >[프로젝트 상세 설명](https://github.com/Catch-Shop/catch-shop) 참고
