@@ -17,7 +17,7 @@
 
 ## :pushpin: Projects
 
-### 1. [getum]()
+### 1. [getum](https://github.com/yeonjiyeon/getum)
 >텀블러 판매 사이트 (개인 프로젝트)  
 >개발 기간: 2022.1.31 ~ 2022.2.  
 >  
@@ -25,7 +25,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA /  
 >H2 /  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/yeonjiyeon/getum) 참고
 
 
 
