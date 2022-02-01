@@ -17,13 +17,13 @@
 
 ## :pushpin: Projects
 
-### 1. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 1. [getum]()
+>텀블러 판매 사이트 (개인 프로젝트)  
+>개발 기간: 2022.1.31 ~ 2022.2.  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring Boot / Gradle / Spring Data JPA /  
+>H2 /  
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
