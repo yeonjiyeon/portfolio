@@ -22,7 +22,7 @@
 >개발 기간: 2022.1.31 ~ 2022.2.  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA /  
+>Java 11 / Spring Boot / Gradle / Spring Data JPA /  
 >H2 
 >  
 >[프로젝트 상세 설명](https://github.com/yeonjiyeon/getum) 참고
