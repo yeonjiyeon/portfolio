@@ -38,7 +38,7 @@
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA /
->H2 / Tymeleaf  
+>H2 / Thymeleaf  
 > 
 >[프로젝트 상세 설명](https://github.com/Catch-Shop/catch-shop) 참고
 
