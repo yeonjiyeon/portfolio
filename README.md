@@ -32,7 +32,7 @@
 
 ---
 
-### 2. [Catch-shop](https://github.com/Catch-Shop/catch-shop)
+### 2. [Catch-shop](https://github.com/yeonjiyeon/catch-shop)
 >음식 판매 쇼핑몰  (팀 프로젝트)  
 >개발 기간: 2021.12.28 ~ 2022.04.29  
 >  
