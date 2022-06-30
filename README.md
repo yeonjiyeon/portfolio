@@ -33,15 +33,17 @@
 
 
 ---
-### 2. [getum](https://github.com/yeonjiyeon/getum)
->텀블러 판매 사이트 (개인 프로젝트)  
->개발 기간: 2022.1.31 ~ 2022.2.  
+
+
+### 2. [ValueUp](https://github.com/ValueUp-v-2/valueup-backend)
+>링커리어 클론 사이트 (팀 프로젝트)  
+>개발 기간: 2022.5 ~ 2022.7  
 >  
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Spring Data JPA /  
 >H2 / Spring Security
 >  
->[프로젝트 상세 설명](https://github.com/yeonjiyeon/getum) 참고
+>[프로젝트 상세 설명](https://github.com/ValueUp-v-2/valueup-backend) 참고
 
 
 
