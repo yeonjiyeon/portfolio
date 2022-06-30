@@ -18,7 +18,7 @@
 ## :pushpin: Projects
 
 
-### 2. [Catch-shop](https://github.com/yeonjiyeon/catch-shop)
+### 1. [Catch-shop](https://github.com/yeonjiyeon/catch-shop)
 >음식 판매 쇼핑몰  (팀 프로젝트)  
 >개발 기간: 2021.12.28 ~ 2022.04.29  
 >  
@@ -33,7 +33,7 @@
 
 
 ---
-### 1. [getum](https://github.com/yeonjiyeon/getum)
+### 2. [getum](https://github.com/yeonjiyeon/getum)
 >텀블러 판매 사이트 (개인 프로젝트)  
 >개발 기간: 2022.1.31 ~ 2022.2.  
 >  
