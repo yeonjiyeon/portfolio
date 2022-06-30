@@ -48,7 +48,22 @@
 
 ---
 
-### 3. [crc.ne.kr](https://github.com/yeonjiyeon/crc.ne.kr)
+### 3. [getum](https://github.com/yeonjiyeon/getum)
+>텀블러 판매 사이트 (개인 프로젝트)  
+>개발 기간: 2022.1.31 ~ 2022.2.  
+>  
+>기술 스택:  
+>Java 11 / Spring Boot / Gradle / Spring Data JPA /  
+>H2 / Spring Security
+>  
+>[프로젝트 상세 설명](https://github.com/yeonjiyeon/getum) 참고
+
+
+
+
+---
+
+### 4. [crc.ne.kr](https://github.com/yeonjiyeon/crc.ne.kr)
 >취미 공유 게시판 (팀 프로젝트)  
 >개발 기간: 2020.2.18 ~ 2020.4.5  
 >  
